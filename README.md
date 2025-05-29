@@ -16,7 +16,7 @@ Key features:
 
 ## Repository Structure
 
-- `get_args.py`: Parses command-line arguments for various scripts.
+- `get_args.py`: Define hyper parameters of the cooperative relay system.
 - `modules.py`: Defines transformer-based neural network modules.
 - `modules_cnn.py`: Also supports convolutional neural network (CNN) modules.
 - `relay_network_fd.py`: Implements the full-duplex relay network model.
