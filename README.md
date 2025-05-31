@@ -7,6 +7,8 @@ This repository contains the source code for the paper titled *"Process-and-Forw
 ## Overview
 We implement both amplify-and-forward (AF) and process-and-forward (PF) for the (three-node) cooperative relay networks working under both half-duplex and full-duplex mode.
 
+![Different relay models](relay_model.png)
+
 Key features:
 
 - **Transformer-based Models**: Utilizes vision transformer architectures for effective feature extraction and transmission.
